@@ -1,1 +1,1 @@
-# TeamTechCrypto.github.io
+# TechCrypto.github.io
